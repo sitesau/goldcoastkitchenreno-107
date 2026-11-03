@@ -1,0 +1,22 @@
+{
+  "wheel_id": 711,
+  "structure": "umbrella",
+  "slug": "goldcoastkitchenreno-107",
+  "project": "kitchen-renovations-gold-coast-warranty-87eac08246edcb8dd7aa90a",
+  "parent_t1_ref": "goldcoastkitchenreno-153",
+  "node_role": "feeder",
+  "money_target": "goldcoastkitchenreno.com.au",
+  "primary_kw": "kitchen renovations gold coast warranty",
+  "intended_url": "https://sitesau.github.io/goldcoastkitchenreno-107/",
+  "tier": "T2",
+  "writeback_nonce": "eda1809b6cc16a1e",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-gold-coast-maintenance-1021e9c36b5caaf3a936/",
+      "anchor": "Kitchen Renovations Gold Coast Maintenance: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
